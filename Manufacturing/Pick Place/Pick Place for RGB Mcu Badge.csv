@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+X:\Altium Projects 2023\ETEX - Microcontroller RGB\Project Outputs for ETEX - Microcontroller RGB\ETEXRGB - V1R0\Pick Place\Pick Place for RGB Mcu Badge.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/12/23
+Time:       17:43
+Revision:   287b8a7e22e6ae41bc3d93789e77069c7c868a67
+Variant:    No variations
+Units used: mm
+
+"Designator","Description","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Comment"
+"FID4","","TopLayer","Fiducial-1mm","7.5000","15.8000","270","Fiducial"
+"FID3","","TopLayer","Fiducial-1mm","15.8000","7.5000","90","Fiducial"
+"FID2","","TopLayer","Fiducial-1mm","-0.8000","7.5000","90","Fiducial"
+"FID1","","TopLayer","Fiducial-1mm","7.5000","-0.8000","90","Fiducial"
+"R13","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","6.8000","4.0000","90","39 Ohms"
+"R12","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","8.2000","4.0000","90","39 Ohms"
+"R11","RES 150 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","7.5000","4.0000","90","150 Ohms"
+"R10","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","11.0000","6.8000","180","39 Ohms"
+"R9","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","11.0000","8.2000","180","39 Ohms"
+"R8","RES 150 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","11.0000","7.5000","180","150 Ohms"
+"R7","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","8.2000","11.0000","270","39 Ohms"
+"R6","RES SMD 39 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","6.8000","11.0000","270","39 Ohms"
+"R5","RES 10 OHM 1% 1/20W 0201","TopLayer","RES_0201_0603","3.5000","7.5000","0","10 Ohms"
+"R4","RES 150 OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","7.5000","11.0000","270","150 Ohms"
+"R3","RES 330 OHM 1% 1/20W 0201","TopLayer","RES_0201_0603","9.6000","4.0000","270","330 Ohms"
+"R2","RES 330 OHM 1% 1/20W 0201","TopLayer","RES_0201_0603","5.9000","4.7000","270","330 Ohms"
+"R1","RES SMD 10K OHM 5% 1/20W 0201","TopLayer","RES_0201_0603","5.2000","4.7000","270","10 kOhms"
+"IC1","IC MCU 8BIT 4KB FLASH 20VQFN","TopLayer","MICROCHIP_VQFN-20_3X3_REB","7.0000","7.5000","180","ATTINY416-MFR"
+"D4","LED RGB MIXED WHITE ( 1.6(L)X1.6","TopLayer","Harvatek_B38G3RGB-10D0003H2U1930","7.5000","2.0000","270","Red, Green, Blue (RGB)"
+"D3","LED RGB MIXED WHITE ( 1.6(L)X1.6","TopLayer","Harvatek_B38G3RGB-10D0003H2U1930","13.0000","7.5000","0","Red, Green, Blue (RGB)"
+"D2","1.6(L)X0.8(W)X0.4(H) MM WHITE LE","TopLayer","LED_0603_1608","2.0000","7.5000","90","White"
+"D1","LED RGB MIXED WHITE ( 1.6(L)X1.6","TopLayer","Harvatek_B38G3RGB-10D0003H2U1930","7.5000","13.0000","90","Red, Green, Blue (RGB)"
+"C1","CAP CER 1UF 25V X7R 0603","TopLayer","CAP_0603_1608","9.5000","10.0000","270","1 µF"

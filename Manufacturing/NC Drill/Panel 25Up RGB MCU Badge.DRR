@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Panel 25Up RGB MCU Badge.PcbDoc   13/12/2023  17:42:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panel 25Up RGB MCU Badge.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)           +0.05mm (2mil)/-0mm (0mil)        Round             175       PTH        977.27mm (38.48inch)
+T2      0.3mm (12mil)                                             Round             550       PTH        1729.41mm (68.09inch)
+T3      2.2mm (87mil)           +0.5mm (20mil)/-0mm (0mil)        Round             100       PTH        968.00mm (38.11inch)
+T4      2.5mm (98mil)           +0.5mm (20mil)/-0mm (0mil)        Round             4         PTH        282.00mm (11.10inch)
+T5      0.3mm (12mil)           +0.5mm (20mil)/-0mm (0mil)        Round             400       NPTH       1073.95mm (42.28inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1229
+
+Total Processing Time (hh:mm:ss) : 00:00:00
